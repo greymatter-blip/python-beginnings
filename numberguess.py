@@ -1,4 +1,4 @@
-#this is a project to guess the number between 1 and 100
+#a project to guess the number between 1 and 100
 
 import random
 sec = random.randint(1, 100)
